@@ -1,1 +1,11 @@
 abcdefghijklmnopqrstqvwxyz
+<?php
+  <head>
+  <title>
+  Weapons;
+  <body>
+  "1. Blade"
+  "2. Guns"
+  "3. Shield"
+  <end>
+  ?>
